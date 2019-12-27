@@ -1,0 +1,11 @@
+#
+
+# Keys
+keys/
+
+# Editors
+.vscode/
+.idea/
+
+# Mac/OSX
+.DS_Store
